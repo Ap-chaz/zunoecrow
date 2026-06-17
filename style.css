@@ -106,6 +106,35 @@ border-radius:20px;
 border:1px solid rgba(255,255,255,.05);
 }
 
+.platforms{
+display:flex;
+align-items:center;
+gap:18px;
+margin-top:25px;
+color:#7f7f7f;
+}
+
+.platforms .coming{
+font-size:15px;
+}
+
+.platforms i{
+font-size:28px;
+color:#bdbdbd;
+transition:.3s;
+cursor:pointer;
+}
+
+.platforms i:hover{
+color:white;
+}
+
+.divider{
+width:1px;
+height:24px;
+background:rgba(255,255,255,.15);
+}
+
 .tabs{
 display:flex;
 gap:10px;
