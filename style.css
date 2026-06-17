@@ -109,17 +109,17 @@ border:1px solid rgba(255,255,255,.05);
 .platforms{
 display:flex;
 align-items:center;
-gap:18px;
+gap:14px;
 margin-top:25px;
 color:#7f7f7f;
 }
 
 .platforms .coming{
-font-size:15px;
+font-size:10px;
 }
 
 .platforms i{
-font-size:28px;
+font-size:19px;
 color:#bdbdbd;
 transition:.3s;
 cursor:pointer;
